@@ -1,0 +1,13 @@
+.user-list-container {
+    margin: 20px;
+}
+
+.user-title {
+    border-bottom: 1px dashed black;
+}
+
+.user-list {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+}
